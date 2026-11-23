@@ -1,0 +1,6 @@
+{
+  "_note": "SYNTHETIC DATA for the hackathon prototype. Not real scam indicators.",
+  "links": ["secure-kyc-update.example", "bank-reward-claim.example"],
+  "upi_ids": ["refund.helpdesk@fakebank", "lucky.draw@fakebank"],
+  "phones": ["+91 99999 00001", "+91 99999 00002"]
+}
